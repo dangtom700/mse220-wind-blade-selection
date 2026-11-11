@@ -1,0 +1,13 @@
+# Office lock/temp files
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+
+# --- Granta EduPack project/record files ---------------------------------
+# Binary Granta files are not viewable without an academic licence and can
+# embed personal metadata (a 9-digit SFU student number is embedded in
+# FinalProjectMSE220.ces). Kept out of the published repo; the per-material
+# .pdf exports are the viewable evidence. .ces/.prd stay locally as source.
+*.ces
+*.prd
